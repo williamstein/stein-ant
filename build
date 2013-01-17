@@ -1,0 +1,7 @@
+#!/bin/sh
+
+pdflatex ant
+bibtex ant
+pdflatex ant
+pdflatex ant
+pdflatex ant
